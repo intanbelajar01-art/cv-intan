@@ -161,32 +161,32 @@ const portfolioData = {
     1: {
         title: 'Poster Parfum Delina Exclusif',
         desc: 'Desain poster parfum mewah dengan konsep elegan dan feminin. Menggunakan Adobe Photoshop untuk menciptakan efek visual yang mewah dengan komposisi warna pink yang lembut.',
-        img: 'images/poster-parfum.jpg',
+        img: './images/poster-parfum.jpg',
         placeholder: 'https://via.placeholder.com/800x600/f093fb/ffffff?text=Poster+Parfum'
     },
     2: {
         title: 'Poster Isra Miraj',
         desc: 'Poster peringatan Isra Miraj 27 Rajab 1446 H dengan ilustrasi Ka\'bah dan unta. Menggunakan teknik flat design dengan warna-warna hangat untuk menciptakan suasana spiritual.',
-        img: 'images/poster-isra-miraj.jpg',
+        img: './images/poster-isra-miraj.jpg',
         placeholder: 'https://via.placeholder.com/800x600/667eea/ffffff?text=Poster+Isra+Miraj'
     },
     3: {
         title: 'Poster Energy Drink',
         desc: 'Desain poster minuman energi "Hendrix Hawkins" dengan konsep dinamis dan energik. Menggunakan Adobe Photoshop untuk menciptakan efek visual yang menarik perhatian.',
-        img: 'images/poster-energy-drink.jpg',
+        img: './images/poster-energy-drink.jpg',
         placeholder: 'https://via.placeholder.com/800x600/ff6b6b/ffffff?text=Poster+Energy+Drink'
     },
     4: {
         title: 'Poster KFC Grand Opening',
         desc: 'Poster promosi Grand Opening KFC dengan diskon 50%. Desain menarik dengan efek api dan komposisi warna merah yang eye-catching untuk menarik perhatian konsumen.',
-        img: 'images/poster-kfc.jpg',
+        img: './images/poster-kfc.jpg',
         placeholder: 'https://via.placeholder.com/800x600/f6d365/ffffff?text=Poster+KFC'
     }
     // TAMBAHKAN KARYA BARU DI SINI:
     // ,5: {
     //     title: 'Judul Karya Baru',
     //     desc: 'Deskripsi karya baru...',
-    //     img: 'images/karya5.jpg',
+    //     img: './images/karya5.jpg',
     //     placeholder: 'https://via.placeholder.com/800x600/667eea/ffffff?text=Karya+5'
     // }
 };
